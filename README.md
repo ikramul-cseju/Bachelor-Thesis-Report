@@ -1,2 +1,7 @@
 # Bachelor-Thesis-Report
 This is my final year BSc thesis report which I wrote for the completion of my graduation in Computer Science and Engineering
+
+Biofloc aquaculture can be challenging and intricate for farmers to manage, but it can be highly efficient and lucrative when done correctly. This project presents a real-time Internet of Things (IoT)-driven water quality monitoring and classification system for biofloc aquaculture using machine learning. The system aims to provide a reliable and efficient method for monitoring water quality parameters in biofloc aquaculture and to classify the water quality based on machine learning algorithms. It consists of a set of sensors that continuously monitor the water quality parameters such as pH, TDS, temperature, and ammonia concentration, and transmit the data to a cloud server through a wireless network. Machine learning algorithms are then used to classify the water quality based on the collected data. The system's performance was evaluated using a biofloc aquaculture setup, and the results showed that the system was able to accurately monitor and classify the water quality parameters in real-time. This system can be used as a tool for farmers to improve their biofloc aquaculture practices, and can also be extended to other aquaculture systems for efficient water quality monitoring and management.
+
+Keywords: Internet of Things (IOT), Machine Learning, Biofloc Technology (BFT)
+
